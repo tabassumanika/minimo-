@@ -19,7 +19,7 @@ header .nav-link{
 	margin-top: 30px;
 }
 .banner-contain {
-	background-image: url('images/minimo1.jpg');
+	background-image: url('images\minimo1.jpg');
 	min-height: 600px;
 	background-size: cover;
 	background-position: center;
